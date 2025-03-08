@@ -2,7 +2,7 @@
 
 ## deploy
 
-deployed in vercel
+deployed in vercel,
 
 
 ## Wireframe
